@@ -1,6 +1,6 @@
 # LinksPM
 
-## Página criada para facilitar o acesso aos links mais acessados na corporação.
+## Página criada para agilizar o acesso aos links mais utilizados na corporação.
 
 ## Os links sugeridos pelos usuários são colocados em uma página estática e depois disponibilizados para facilitar o acesso.
 
