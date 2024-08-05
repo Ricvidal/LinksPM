@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusão de Conta</title>
+</head>
+<body>
+    <h1>Exclusão de Conta</h1>
+    <p>Para solicitar a exclusão da sua conta, envie um e-mail para <a href="mailto:suporte@aratrumx.com">suporte@aratrumx.com</a> com o assunto "Exclusão de Conta" ou "Exclusão de Dados".</p>
+    <p>No e-mail, mencione o nome do aplicativo, seu nome de usuário, e-mail utilizado para o cadastro e telefone.</p>
+    <p>Tipos de dados excluídos: Informações de perfil, dados de uso e quaisquer dados armazenados no nosso sistema.</p>
+    <p>Prazo para exclusão: O processo de exclusão pode levar até 30 dias após a solicitação.</p>
+</body>
+</html>
